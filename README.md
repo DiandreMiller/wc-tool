@@ -21,3 +21,15 @@ Things we have to know how to do:
 5. What is a byte
 6. How to calculate a byte
 7. How to separate a file into words
+
+Todo:
+
+- create a basic terminal command that prints something to the console
+    - call it ccwc
+- write a command that takes user input in some way
+- write a test for our user command
+
+
+Where to find stuff
+
+We have to go to `~/.custom_bash_commands.sh`to change our ccwc command. We will havet o write `source .custom_bash_commands.sh`
