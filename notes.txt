@@ -1,5 +1,3 @@
-# wc-tool
-
 I am building a command line tool that works like the Unix wc command. What does the 
 tool do?
 
